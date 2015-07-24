@@ -18,16 +18,18 @@ def server_connect():
     #create connection to local database
     return mysql.connector.connect(user='Jared', password='heylookadatabasepassword', host='127.0.0.1', database='shelf_database_test')
 
+#not used for now, need to figure out proper json formatter
 def get_json(json_list):
     if (len(json_list) == 0):
         return "empty list"
     else:
-        #return jsonify({'listtest',json_list})
         return json.dumps(json_list)
 
 def log_event(log_entry):
     with open("serverlog.txt", "a") as logfile:
-        logfile.write(str(datetime.datetime.now()) + ": " + str(log_entry) + "\n")
+        log_string = str(datetime.datetime.now()) + ": " + str(log_entry)
+        print(log_string)
+        logfile.write(log_string + "\n")
         logfile.close()
         
 
@@ -242,7 +244,14 @@ def get_bases():
     #build JSON string for return
     rows = cursor.fetchall()    
     
-    json = get_json(rows)    
+    objects_list = []
+    for row in rows:
+        d = collections.OrderedDict()
+        d['id'] = row[0]
+        d['position'] = row[1]
+        objects_list.append(d)
+ 
+    jsonstring = json.dumps(objects_list)   
 
     #close cursor and connection
     cursor.close
@@ -252,7 +261,7 @@ def get_bases():
     log_event("base list requested")
 
     #return json
-    return json
+    return jsonstring
 
 @app.route('/getzones/<int:baseid>')
 def get_zones(baseid):
@@ -272,8 +281,6 @@ def get_zones(baseid):
 
     #build JSON string for return
     rows = cursor.fetchall()
-    
-    jsonstring = get_json(rows)
 
     objects_list = []
     for row in rows:
@@ -288,8 +295,6 @@ def get_zones(baseid):
         objects_list.append(d)
  
     jsonstring = json.dumps(objects_list)
-
-    #jsonstring = jsonify({'test':jsonify({'test2':rows})})
 
     #close cursor and connection
     cursor.close
@@ -308,7 +313,7 @@ def get_zone(baseid,zoneid):
     cursor = cnx.cursor()
 
     #build query
-    query = ("SELECT id, baseid, type, weight, initialweight, units, description FROM zones "
+    query = ("SELECT id, baseid, type, CAST(weight AS CHAR), CAST(initialweight AS CHAR), units, description FROM zones "
                  "WHERE baseid = %s AND id = %s")
 
     data = (baseid,zoneid)
@@ -319,14 +324,29 @@ def get_zone(baseid,zoneid):
     #build JSON string for return
     rows = cursor.fetchall()
     
-    json = get_json(rows)    
-
+    objects_list = []
+    for row in rows:
+        d = collections.OrderedDict()
+        d['id'] = row[0]
+        d['baseid'] = row[1]
+        d['type'] = row[2]
+        d['weight'] = row[3]
+        d['initialweight'] = row[4]
+        d['units'] = row[5]
+        d['desc'] = row[6]
+        objects_list.append(d)
+ 
+    jsonstring = json.dumps(objects_list)
+    
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("zone " + str(zoneid) + " for base " + str(baseid) + " requested")
 
     #return json
-    return json
+    return jsonstring
 
 @app.route('/getweight/<int:baseid>/<int:zoneid>')
 def get_weight(baseid,zoneid):
@@ -335,7 +355,7 @@ def get_weight(baseid,zoneid):
     cursor = cnx.cursor()
 
     #build query
-    query = ("SELECT weight FROM zones "
+    query = ("SELECT CAST(weight AS CHAR) FROM zones "
                  "WHERE baseid = %s AND id = %s")
 
     data = (baseid,zoneid)
@@ -346,14 +366,20 @@ def get_weight(baseid,zoneid):
     #build JSON string for return
     rows = cursor.fetchall()
     
-    json = get_json(rows)    
+    objects_list = []
+    for row in rows:
+        d = collections.OrderedDict()
+        d['weight'] = row[0]
+        objects_list.append(d)
+ 
+    jsonstring = json.dumps(objects_list) 
 
     #close cursor and connection
     cursor.close
     cnx.close()    
 
     #return json
-    return json
+    return jsonstring
 
 @app.route('/getinitialweight/<int:baseid>/<int:zoneid>')
 def get_initialweight(baseid,zoneid):
@@ -362,7 +388,7 @@ def get_initialweight(baseid,zoneid):
     cursor = cnx.cursor()
 
     #build query
-    query = ("SELECT initialweight FROM zones "
+    query = ("SELECT CAST(initialweight AS CHAR) FROM zones "
                  "WHERE baseid = %s AND id = %s")
 
     data = (baseid,zoneid)
@@ -373,14 +399,20 @@ def get_initialweight(baseid,zoneid):
     #build JSON string for return
     rows = cursor.fetchall()
     
-    json = get_json(rows)    
+    objects_list = []
+    for row in rows:
+        d = collections.OrderedDict()
+        d['initialweight'] = row[0]
+        objects_list.append(d)
+ 
+    jsonstring = json.dumps(objects_list)    
 
     #close cursor and connection
     cursor.close
     cnx.close()    
 
     #return json
-    return json
+    return jsonstring
 
 @app.route('/getweights/<int:baseid>/<int:zoneid>')
 def get_weights(baseid,zoneid):
@@ -389,7 +421,7 @@ def get_weights(baseid,zoneid):
     cursor = cnx.cursor()
 
     #build query
-    query = ("SELECT weight, initialweight FROM zones "
+    query = ("SELECT CAST(weight AS CHAR), CAST(initialweight AS CHAR) FROM zones "
                  "WHERE baseid = %s AND id = %s")
 
     data = (baseid,zoneid)
@@ -400,20 +432,30 @@ def get_weights(baseid,zoneid):
     #build JSON string for return
     rows = cursor.fetchall()
     
-    json = get_json(rows)    
+    objects_list = []
+    for row in rows:
+        d = collections.OrderedDict()
+        d['weight'] = row[0]
+        d['initialweight'] = row[1]
+        objects_list.append(d)
+ 
+    jsonstring = json.dumps(objects_list)   
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("weights for base " + str(baseid) + ", zone " + str(zoneid) + " requested")
 
     #return json
-    return json
+    return jsonstring
 
 #----------------start server-------------------
-print('starting server')
+log_event("Attempting server start")
 server_instance = HTTPServer(WSGIContainer(app))
 server_instance.listen(5001)
-print('server is now running')
+log_event("Server started")
 IOLoop.instance().start()
     
     

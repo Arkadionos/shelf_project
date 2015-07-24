@@ -3,3 +3,54 @@
 2015-07-24 16:07:47.821319: zones for base 1 requested
 2015-07-24 16:09:18.032479: zones for base 1 requested
 2015-07-24 16:32:58.736119: zones for base 1 requested
+2015-07-24 16:59:06.021763: base list requested
+2015-07-24 16:59:17.755434: Server started
+2015-07-24 16:59:53.825497: zones for base 1 requested
+2015-07-24 17:00:53.167891: Attempting server start
+2015-07-24 17:00:53.173892: Server started
+2015-07-24 17:01:06.611660: Attempting server start
+2015-07-24 17:01:06.626661: Server started
+2015-07-24 17:01:28.409907: Attempting server start
+2015-07-24 17:01:28.419908: Server started
+2015-07-24 17:10:05.536485: zones for base 1 requested
+2015-07-24 17:42:58.876354: zones for base 1 requested
+2015-07-24 17:45:32.436137: zones for base 1 requested
+2015-07-24 17:45:50.894192: zones for base 1 requested
+2015-07-24 18:04:06.209841: zones for base 1 requested
+2015-07-24 18:15:27.134788: zones for base 1 requested
+2015-07-24 18:17:50.518989: zones for base 1 requested
+2015-07-24 18:18:39.738804: zones for base 1 requested
+2015-07-24 18:18:43.520020: zones for base 1 requested
+2015-07-24 18:19:37.139087: zones for base 1 requested
+2015-07-24 18:20:31.903219: zones for base 1 requested
+2015-07-24 18:34:15.607332: zones for base 1 requested
+2015-07-24 18:42:23.730252: zones for base 1 requested
+2015-07-24 18:45:03.741404: zones for base 1 requested
+2015-07-24 18:45:42.365613: zones for base 1 requested
+2015-07-24 18:48:38.276674: zones for base 1 requested
+2015-07-24 18:52:12.164908: zones for base 1 requested
+2015-07-24 18:53:40.577965: zones for base 1 requested
+2015-07-24 18:54:51.977049: Attempting server start
+2015-07-24 18:54:52.008051: Server started
+2015-07-24 19:11:31.950244: Attempting server start
+2015-07-24 19:11:31.962245: Server started
+2015-07-24 19:12:51.879816: Attempting server start
+2015-07-24 19:12:51.890816: Server started
+2015-07-24 19:12:57.404132: Attempting server start
+2015-07-24 19:12:57.418132: Server started
+2015-07-24 19:13:35.931335: base list requested
+2015-07-24 19:13:40.254583: Attempting server start
+2015-07-24 19:13:40.266583: Server started
+2015-07-24 19:14:28.190324: zones for base 1 requested
+2015-07-24 19:14:43.249186: Attempting server start
+2015-07-24 19:14:43.261186: Server started
+2015-07-24 19:16:12.884313: Attempting server start
+2015-07-24 19:16:12.896313: Server started
+2015-07-24 19:16:14.375398: zone 1 for base 1 requested
+2015-07-24 19:17:32.958893: Attempting server start
+2015-07-24 19:17:33.014896: Server started
+2015-07-24 19:17:42.211422: Attempting server start
+2015-07-24 19:17:42.222422: Server started
+2015-07-24 19:18:01.885547: Attempting server start
+2015-07-24 19:18:01.897548: Server started
+2015-07-24 19:18:03.242625: weights for base 1, zone 1 requested
