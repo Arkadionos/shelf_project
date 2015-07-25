@@ -16,8 +16,11 @@ def test_response():
 
 def server_connect():
     #create connection to local database
-    return mysql.connector.connect(user='Jared', password='heylookadatabasepassword', host='127.0.0.1', database='shelf_database_test')
-
+    try:
+        return mysql.connector.connect(user='Jared', password='heylookadatabasepassword', host='127.0.0.1', database='shelf_database_test')
+    except Exception:
+        return "connection to database failed"
+    
 #not used for now, need to figure out proper json formatter
 def get_json(json_list):
     if (len(json_list) == 0):
@@ -31,6 +34,15 @@ def log_event(log_entry):
         print(log_string)
         logfile.write(log_string + "\n")
         logfile.close()
+
+@app.route('/log/<messsage>')
+def remote_log(message):
+    log_event(str(message))
+    return "log successful"
+
+@app.errorhandler(404)
+def page_not_found(e):
+    return "incorrect url"
         
 
 #----------------insert functions-------------------
@@ -47,15 +59,18 @@ def new_base(position):
     
     data = (position,)
 
-    #execute query
-    cursor.execute(query,data)
-    baseid = cursor.lastrowid
+    try:
+        #execute query
+        cursor.execute(query,data)
+        baseid = cursor.lastrowid
 
-    #setup defaults for new base
-    default_zones(baseid, cnx, cursor)
+        #setup defaults for new base
+        default_zones(baseid, cnx, cursor)
 
-    #commit all changes
-    cnx.commit()
+        #commit all changes
+        cnx.commit()
+    except Exception:
+        return "insert new base failed"
 
     #close cursor and connection
     cursor.close
@@ -102,14 +117,17 @@ def new_notif(zoneid, type, value):
     query = ("INSERT INTO notifications "
                 "(id, zoneid, type, value, description) "
                 "VALUES (DEFAULT, %s, %s, %s, %s)")
-    
-    data = (zoneid, type, value, 'this is a test description')
 
-    #execute query 
-    cursor.execute(query, data)
+    try:
+        data = (zoneid, type, value, 'this is a test description')
 
-    #commit all changes
-    cnx.commit()
+        #execute query 
+        cursor.execute(query, data)
+
+        #commit all changes
+        cnx.commit()
+    except Exception:
+        return "insert new notification failed"
 
     #close cursor and connection
     cursor.close
@@ -134,11 +152,14 @@ def update_weight(baseid, zoneid, weight):
     
     data = (weight, zoneid, baseid)
 
-    #execute query 
-    cursor.execute(query, data)
+    try:
+        #execute query 
+        cursor.execute(query, data)
 
-    #commit all changes
-    cnx.commit()
+        #commit all changes
+        cnx.commit()
+    except Exception:
+        return "insert new base failed"
 
     #close cursor and connection
     cursor.close
@@ -162,12 +183,15 @@ def update_initialweight(baseid, zoneid, weight):
     
     data = (weight, zoneid, baseid)
 
-    #execute query 
-    cursor.execute(query, data)
+    try:
+        #execute query 
+        cursor.execute(query, data)
 
-    #commit all changes
-    cnx.commit()
-
+        #commit all changes
+        cnx.commit()
+    except Exception:
+        return "insert new base failed"
+    
     #close cursor and connection
     cursor.close
     cnx.close()
