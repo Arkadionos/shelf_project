@@ -142,7 +142,10 @@ def update_weight(baseid, zoneid, weight):
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("updated weight of base " + str(baseid) + ", zone " + str(zoneid) + " to " + str(weight))
 
     #return success
     return "success"
@@ -167,7 +170,10 @@ def update_initialweight(baseid, zoneid, weight):
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("updated initial of base " + str(baseid) + ", zone " + str(zoneid) + " to " + str(weight))
 
     #return success
     return "success"
@@ -192,7 +198,10 @@ def update_units(baseid, zoneid, units):
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("updated units of base " + str(baseid) + ", zone " + str(zoneid) + " to " + str(units))
 
     #return success
     return "success"
@@ -222,7 +231,10 @@ def update_desc(baseid, zoneid, desc):
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("updated description of base " + str(baseid) + ", zone " + str(zoneid) + " to " + str(desc))
 
     #return success
     return "success"
@@ -343,7 +355,7 @@ def get_zone(baseid,zoneid):
     cnx.close()
 
     #log event
-    log_event("zone " + str(zoneid) + " for base " + str(baseid) + " requested")
+    log_event("zone " + str(zoneid) + " of base " + str(baseid) + " requested")
 
     #return json
     return jsonstring
@@ -376,7 +388,10 @@ def get_weight(baseid,zoneid):
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("weight for base " + str(baseid) + ", zone " + str(zoneid) + " requested")
 
     #return json
     return jsonstring
@@ -409,7 +424,10 @@ def get_initialweight(baseid,zoneid):
 
     #close cursor and connection
     cursor.close
-    cnx.close()    
+    cnx.close()
+
+    #log event
+    log_event("intial weight for base " + str(baseid) + ", zone " + str(zoneid) + " requested")
 
     #return json
     return jsonstring

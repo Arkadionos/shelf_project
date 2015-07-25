@@ -54,3 +54,29 @@
 2015-07-24 19:18:01.885547: Attempting server start
 2015-07-24 19:18:01.897548: Server started
 2015-07-24 19:18:03.242625: weights for base 1, zone 1 requested
+2015-07-24 19:32:02.738641: Attempting server start
+2015-07-24 19:32:02.785644: Server started
+2015-07-24 19:38:46.121713: weight for base 1, zone 1 requested
+2015-07-24 19:45:27.304660: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:49:29.666522: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:50:16.010173: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:50:44.378795: weight for base 1, zone 1 requested
+2015-07-24 19:50:49.941113: weight for base 1, zone 1 requested
+2015-07-24 19:50:55.308420: weight for base 1, zone 1 requested
+2015-07-24 19:51:02.025805: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:51:04.296934: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:51:06.387054: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:51:11.092323: weight for base 1, zone 1 requested
+2015-07-24 19:51:53.635756: weight for base 1, zone 1 requested
+2015-07-24 19:52:01.779222: weight for base 1, zone 1 requested
+2015-07-24 19:52:28.195733: weight for base 1, zone 1 requested
+2015-07-24 19:59:16.982114: updated weight of base 1, zone 1 to 1.28
+2015-07-24 19:59:20.040289: weight for base 1, zone 1 requested
+2015-07-24 20:04:16.005218: updated weight of base 1, zone 1 to 1.28
+2015-07-24 20:04:18.695371: weight for base 1, zone 1 requested
+2015-07-24 20:04:22.627596: updated weight of base 1, zone 1 to 1.28
+2015-07-24 20:05:27.912330: updated weight of base 1, zone 1 to 1.28
+2015-07-24 20:07:03.936823: updated weight of base 1, zone 1 to 1.38
+2015-07-24 20:07:31.277387: weight for base 1, zone 1 requested
+2015-07-24 20:20:54.298317: updated weight of base 1, zone 1 to 1.38
+2015-07-24 20:21:43.739145: updated weight of base 1, zone 1 to 1.38
