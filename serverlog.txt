@@ -1361,3 +1361,995 @@
 2015-07-25 17:58:16.547491: updated weight of base 1, zone 2 to 0.00
 2015-07-25 17:58:20.250703: updated weight of base 1, zone 1 to 0.00
 2015-07-25 17:58:23.948915: updated weight of base 1, zone 2 to 0.00
+2015-07-25 20:34:25.842384: zones for base 1 requested
+2015-07-25 20:34:34.782896: zones for base 1 requested
+2015-07-25 20:35:05.316642: zones for base 1 requested
+2015-07-25 20:35:46.151978: intial weight for base 1, zone 4 requested
+2015-07-25 20:35:56.976597: intial weight for base 1, zone 3 requested
+2015-07-25 20:37:02.950371: updated weight of base 1, zone 3 to 10
+2015-07-25 20:37:06.559577: intial weight for base 1, zone 3 requested
+2015-07-25 20:37:09.672755: intial weight for base 1, zone 3 requested
+2015-07-25 20:37:29.676899: zones for base 1 requested
+2015-07-25 20:38:13.360398: updated weight of base 1, zone 3 to 40
+2015-07-25 20:38:19.697760: zones for base 1 requested
+2015-07-25 20:38:34.211590: intial weight for base 1, zone 3 requested
+2015-07-25 20:39:17.027039: updated weight of base 1, zone 3 to 40
+2015-07-25 20:39:22.677362: intial weight for base 1, zone 3 requested
+2015-07-25 20:39:48.134819: intial weight for base 1, zone 3 requested
+2015-07-25 20:46:29.469774: updated description of base 1, zone 1 to Sugar
+2015-07-25 20:46:34.505062: updated description of base 1, zone 1 to Sugar
+2015-07-25 20:46:46.971775: zones for base 1 requested
+2015-07-25 20:47:22.300795: updated description of base 1, zone 1 to SSDD
+2015-07-25 20:47:25.643987: zones for base 1 requested
+2015-07-25 20:53:47.717840: zones for base 1 requested
+2015-07-25 20:54:46.761217: zones for base 1 requested
+2015-07-25 20:58:06.429637: zones for base 1 requested
+2015-07-25 20:58:46.049904: zones for base 1 requested
+2015-07-25 20:59:12.810434: zones for base 1 requested
+2015-07-25 20:59:29.570393: zones for base 1 requested
+2015-07-25 20:59:56.454931: zones for base 1 requested
+2015-07-25 21:00:39.387386: updated description of base 1, zone 1 to SSDD
+2015-07-25 21:00:42.043538: updated description of base 1, zone 1 to SSDDefe
+2015-07-25 21:01:00.369586: zones for base 1 requested
+2015-07-25 21:01:08.246037: zones for base 1 requested
+2015-07-25 21:01:25.512024: zones for base 1 requested
+2015-07-25 21:03:03.556632: zones for base 1 requested
+2015-07-25 21:06:24.532127: zones for base 1 requested
+2015-07-25 21:07:15.166023: zones for base 1 requested
+2015-07-25 21:07:23.653509: updated description of base 1, zone 1 to Test
+2015-07-25 21:07:26.005643: zones for base 1 requested
+2015-07-25 21:08:07.875038: updated description of base 1, zone 2 to Zone2
+2015-07-25 21:08:11.178227: zones for base 1 requested
+2015-07-25 21:09:13.710804: zones for base 1 requested
+2015-07-25 21:09:33.385929: updated description of base 1, zone 2 to Test2
+2015-07-25 21:10:29.678149: zones for base 1 requested
+2015-07-25 21:10:44.853017: updated description of base 1, zone 2 to Test3
+2015-07-25 21:10:44.963023: updated weight of base 1, zone 2 to 20
+2015-07-25 21:10:47.530170: zones for base 1 requested
+2015-07-25 21:11:09.460424: updated description of base 1, zone 1 to Zone1
+2015-07-25 21:11:09.543429: updated weight of base 1, zone 1 to 100
+2015-07-25 21:11:12.838617: zones for base 1 requested
+2015-07-25 21:11:26.779415: updated weight of base 1, zone 2 to 200
+2015-07-25 21:11:29.969597: zones for base 1 requested
+2015-07-25 21:11:51.179810: updated description of base 1, zone 2 to Zone2
+2015-07-25 21:11:51.249814: updated weight of base 1, zone 2 to 200
+2015-07-25 21:11:57.821190: zones for base 1 requested
+2015-07-25 21:13:00.392769: updated description of base 1, zone 3 to Zone3
+2015-07-25 21:13:00.509776: updated weight of base 1, zone 3 to 1000
+2015-07-25 21:13:02.155870: zones for base 1 requested
+2015-07-25 21:18:18.867985: zones for base 1 requested
+2015-07-25 21:23:08.387544: zones for base 1 requested
+2015-07-25 21:23:44.290598: updated weight of base 1, zone 4 to 65
+2015-07-25 21:23:53.927149: zones for base 1 requested
+2015-07-25 21:24:07.961952: updated description of base 1, zone 4 to Rjdj
+2015-07-25 21:24:08.018955: updated weight of base 1, zone 4 to 65
+2015-07-25 21:24:09.978067: zones for base 1 requested
+2015-07-25 21:24:29.152164: updated description of base 1, zone 4 to Test
+2015-07-25 21:24:31.800315: zones for base 1 requested
+2015-07-25 21:24:39.512757: zones for base 1 requested
+2015-07-25 21:24:41.589875: zones for base 1 requested
+2015-07-25 21:25:07.105335: updated description of base 1, zone 4 to Test80
+2015-07-25 21:25:07.242343: updated weight of base 1, zone 4 to 80
+2015-07-25 21:25:19.283031: zones for base 1 requested
+2015-07-25 21:27:37.558940: zones for base 1 requested
+2015-07-25 21:27:51.940763: updated description of base 1, zone 4 to Zone4
+2015-07-25 21:27:52.152775: updated weight of base 1, zone 4 to 5000
+2015-07-25 21:27:55.512967: zones for base 1 requested
+2015-07-25 21:33:07.357804: zones for base 1 requested
+2015-07-25 21:33:13.693166: updated description of base 1, zone 4 to Zone4
+2015-07-25 21:33:16.875348: zones for base 1 requested
+2015-07-25 21:33:26.202882: updated description of base 1, zone 4 to Zone4
+2015-07-25 21:33:26.281886: updated weight of base 1, zone 4 to 550
+2015-07-25 21:33:28.545015: zones for base 1 requested
+2015-07-25 21:33:36.670480: updated description of base 1, zone 4 to ZoneTest
+2015-07-25 21:33:36.719483: updated weight of base 1, zone 4 to 550
+2015-07-25 21:33:39.298631: zones for base 1 requested
+2015-07-25 21:33:52.262372: zones for base 1 requested
+2015-07-25 21:33:55.033531: zones for base 1 requested
+2015-07-25 21:34:14.095621: zones for base 1 requested
+2015-07-25 21:34:21.139024: zones for base 1 requested
+2015-07-25 21:35:16.451187: zones for base 1 requested
+2015-07-25 21:35:20.121397: zones for base 1 requested
+2015-07-25 21:35:52.651258: zones for base 1 requested
+2015-07-25 21:40:42.941862: zones for base 1 requested
+2015-07-25 21:41:26.079329: zones for base 1 requested
+2015-07-25 21:41:52.157820: updated description of base 1, zone 3 to Zone
+2015-07-25 21:41:52.244825: updated weight of base 1, zone 3 to 1000
+2015-07-25 21:41:54.318944: zones for base 1 requested
+2015-07-25 21:42:02.787428: updated description of base 1, zone 3 to Zone
+2015-07-25 21:42:02.830431: updated weight of base 1, zone 3 to 000
+2015-07-25 21:42:04.673536: zones for base 1 requested
+2015-07-25 21:42:19.018357: updated description of base 1, zone 3 to Zoneujshsjs
+2015-07-25 21:42:19.073360: updated weight of base 1, zone 3 to 500
+2015-07-25 21:42:21.376492: zones for base 1 requested
+2015-07-25 22:20:30.101399: updated weight of base 1, zone 3 to 40
+2015-07-25 22:20:31.622486: updated weight of base 1, zone 3 to 40
+2015-07-25 22:20:38.557883: intial weight for base 1, zone 3 requested
+2015-07-25 22:31:49.709271: Attempting server start
+2015-07-25 22:31:49.777275: Server started
+2015-07-25 22:32:28.145469: Attempting server start
+2015-07-25 22:32:28.197472: Server started
+2015-07-25 22:32:29.585551: base list requested
+2015-07-25 22:44:47.363750: zones for base 1 requested
+2015-07-25 22:45:10.774089: zones for base 1 requested
+2015-07-25 22:46:06.281264: zones for base 1 requested
+2015-07-25 22:46:17.861926: zones for base 1 requested
+2015-07-25 22:46:21.653143: zones for base 1 requested
+2015-07-25 22:53:09.095447: weight for base 1, zone 2 requested
+2015-07-25 22:57:23.247984: zones for base 1 requested
+2015-07-25 22:57:32.478512: zones for base 1 requested
+2015-07-26 12:13:57.319486: Attempting server start
+2015-07-26 12:13:57.370489: Server started
+2015-07-26 12:22:51.014012: Attempting server start
+2015-07-26 12:22:51.025012: Server started
+2015-07-26 12:31:51.706140: Attempting server start
+2015-07-26 12:31:51.725142: Server started
+2015-07-26 12:41:29.517189: Attempting server start
+2015-07-26 12:41:29.570192: Server started
+2015-07-26 12:41:44.857067: base list requested
+2015-07-26 12:43:08.354843: zones for base 1 requested
+2015-07-26 12:43:12.723092: zones for base 1 requested
+2015-07-26 12:43:27.413933: updated description of base 1, zone 4 to ZoneTest1
+2015-07-26 12:43:27.467936: updated weight of base 1, zone 4 to 550
+2015-07-26 12:43:30.953135: zones for base 1 requested
+2015-07-26 12:59:38.276463: zones for base 1 requested
+2015-07-26 12:59:39.286521: zones for base 1 requested
+2015-07-26 12:59:52.460274: zones for base 1 requested
+2015-07-26 13:00:48.347471: zones for base 1 requested
+2015-07-26 13:01:11.037768: zones for base 1 requested
+2015-07-26 13:13:30.637071: zones for base 1 requested
+2015-07-26 13:13:32.056152: zones for base 1 requested
+2015-07-26 13:24:19.053158: zones for base 1 requested
+2015-07-26 13:24:20.159222: zones for base 1 requested
+2015-07-26 13:24:30.618820: zones for base 1 requested
+2015-07-26 13:24:32.016900: zones for base 1 requested
+2015-07-26 13:24:32.688938: zones for base 1 requested
+2015-07-26 13:27:07.457791: zones for base 1 requested
+2015-07-26 13:27:09.214891: zones for base 1 requested
+2015-07-26 13:27:57.571657: zones for base 1 requested
+2015-07-26 13:28:39.284043: zones for base 1 requested
+2015-07-26 13:28:41.211153: zones for base 1 requested
+2015-07-26 13:29:57.438513: zones for base 1 requested
+2015-07-26 13:29:58.482573: zones for base 1 requested
+2015-07-26 13:30:19.540777: zones for base 1 requested
+2015-07-26 13:30:21.007861: zones for base 1 requested
+2015-07-26 13:30:52.988690: zones for base 1 requested
+2015-07-26 13:30:54.858797: zones for base 1 requested
+2015-07-26 13:31:00.297108: zones for base 1 requested
+2015-07-26 13:31:01.076153: zones for base 1 requested
+2015-07-26 13:31:01.704189: zones for base 1 requested
+2015-07-26 13:31:02.212218: zones for base 1 requested
+2015-07-26 13:31:02.727247: zones for base 1 requested
+2015-07-26 13:31:03.155272: zones for base 1 requested
+2015-07-26 13:31:06.341454: zones for base 1 requested
+2015-07-26 13:31:09.231619: zones for base 1 requested
+2015-07-26 13:31:10.220676: zones for base 1 requested
+2015-07-26 13:31:11.896772: zones for base 1 requested
+2015-07-26 13:37:35.607719: zones for base 1 requested
+2015-07-26 13:37:58.030001: updated description of base 1, zone 2 to Test
+2015-07-26 13:37:58.104005: updated weight of base 1, zone 2 to 2710
+2015-07-26 13:38:01.099177: zones for base 1 requested
+2015-07-26 13:40:24.746393: zones for base 1 requested
+2015-07-26 13:41:23.923778: zones for base 1 requested
+2015-07-26 13:41:28.104017: zones for base 1 requested
+2015-07-26 13:44:07.325124: zones for base 1 requested
+2015-07-26 13:59:14.386005: updated weight of base 1, zone 1 to 50
+2015-07-26 13:59:36.626277: updated weight of base 1, zone 1 to 100
+2015-07-26 14:00:34.906610: zones for base 1 requested
+2015-07-26 14:02:46.404131: updated initial of base 1, zone 1 to 50
+2015-07-26 14:02:55.573656: zones for base 1 requested
+2015-07-26 14:03:24.240295: zones for base 1 requested
+2015-07-26 14:03:37.371046: updated weight of base 1, zone 1 to 50
+2015-07-26 14:03:41.318272: zones for base 1 requested
+2015-07-26 14:03:43.628404: zones for base 1 requested
+2015-07-26 14:03:54.031999: updated initial of base 1, zone 1 to 100
+2015-07-26 14:04:19.989484: updated initial of base 1, zone 1 to 100
+2015-07-26 14:04:22.828647: zones for base 1 requested
+2015-07-26 14:04:30.374078: zones for base 1 requested
+2015-07-26 14:04:34.498314: updated initial of base 1, zone 1 to 101
+2015-07-26 14:04:37.020458: zones for base 1 requested
+2015-07-26 14:05:37.855938: updated initial of base 1, zone 2 to 101
+2015-07-26 14:05:46.568436: updated weight of base 1, zone 2 to 10
+2015-07-26 14:05:49.457601: updated weight of base 1, zone 3 to 10
+2015-07-26 14:05:51.825737: updated weight of base 1, zone 4 to 10
+2015-07-26 14:06:36.506292: zones for base 1 requested
+2015-07-26 14:07:00.414660: updated description of base 1, zone 3 to Zone3
+2015-07-26 14:07:00.522666: updated initial of base 1, zone 3 to 200
+2015-07-26 14:07:09.556183: zones for base 1 requested
+2015-07-26 14:07:25.420090: updated description of base 1, zone 4 to Zone4
+2015-07-26 14:07:25.459092: updated initial of base 1, zone 4 to 50
+2015-07-26 14:07:28.125245: zones for base 1 requested
+2015-07-26 14:07:53.825715: updated description of base 1, zone 2 to Zone2
+2015-07-26 14:07:53.872718: updated initial of base 1, zone 2 to 65
+2015-07-26 14:07:56.422863: zones for base 1 requested
+2015-07-26 14:08:31.207853: zones for base 1 requested
+2015-07-26 14:08:40.389378: updated description of base 1, zone 1 to Zone1
+2015-07-26 14:08:40.446381: updated initial of base 1, zone 1 to 501
+2015-07-26 14:08:42.470497: zones for base 1 requested
+2015-07-26 14:08:59.142451: updated weight of base 1, zone 4 to 400
+2015-07-26 14:09:02.438639: zones for base 1 requested
+2015-07-26 14:09:14.071305: updated weight of base 1, zone 4 to 20
+2015-07-26 14:09:20.810690: updated weight of base 1, zone 1 to 400
+2015-07-26 14:09:23.987872: zones for base 1 requested
+2015-07-26 14:10:46.857612: zones for base 1 requested
+2015-07-26 14:14:11.710329: zones for base 1 requested
+2015-07-26 14:20:26.032739: zones for base 1 requested
+2015-07-26 14:20:37.723407: zones for base 1 requested
+2015-07-26 14:20:43.484737: zones for base 1 requested
+2015-07-26 14:21:00.347701: zones for base 1 requested
+2015-07-26 14:26:07.909293: zones for base 1 requested
+2015-07-26 14:26:15.813745: zones for base 1 requested
+2015-07-26 14:39:41.104805: zones for base 1 requested
+2015-07-26 14:39:45.665066: zones for base 1 requested
+2015-07-26 14:53:59.471901: zones for base 1 requested
+2015-07-26 14:55:10.923988: zones for base 1 requested
+2015-07-26 14:56:39.784070: zones for base 1 requested
+2015-07-26 15:01:57.968269: zones for base 1 requested
+2015-07-26 15:03:09.390354: zones for base 1 requested
+2015-07-26 15:06:45.707727: zones for base 1 requested
+2015-07-26 15:10:25.637306: zones for base 1 requested
+2015-07-26 15:10:31.597647: zones for base 1 requested
+2015-07-26 15:10:34.135792: zones for base 1 requested
+2015-07-26 15:10:36.714940: zones for base 1 requested
+2015-07-26 15:10:45.856463: updated description of base 1, zone 1 to Zone1
+2015-07-26 15:10:45.904465: updated initial of base 1, zone 1 to 5901
+2015-07-26 15:10:47.444553: zones for base 1 requested
+2015-07-26 15:10:57.599134: updated description of base 1, zone 2 to Zone2
+2015-07-26 15:10:57.652137: updated initial of base 1, zone 2 to 89
+2015-07-26 15:10:58.595191: zones for base 1 requested
+2015-07-26 15:11:16.825234: updated description of base 1, zone 1 to Zone1
+2015-07-26 15:11:16.874237: updated initial of base 1, zone 1 to 450
+2015-07-26 15:11:18.337320: zones for base 1 requested
+2015-07-26 15:11:39.351522: updated description of base 1, zone 1 to Sugar
+2015-07-26 15:11:39.436527: updated initial of base 1, zone 1 to 450
+2015-07-26 15:11:42.549705: zones for base 1 requested
+2015-07-26 15:11:51.634225: updated description of base 1, zone 2 to Flour
+2015-07-26 15:11:51.702229: updated initial of base 1, zone 2 to 89
+2015-07-26 15:11:53.186314: zones for base 1 requested
+2015-07-26 15:16:01.918540: zones for base 1 requested
+2015-07-26 15:16:14.971287: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:16:50.105297: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:16:53.807508: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:16:55.764620: weight for base 1, zone 1 requested
+2015-07-26 15:16:57.164700: weight for base 1, zone 2 requested
+2015-07-26 15:16:57.509720: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:01.224933: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:17:04.936145: updated weight of base 1, zone 1 to 0.18
+2015-07-26 15:17:06.265221: weight for base 1, zone 1 requested
+2015-07-26 15:17:08.626356: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:17:12.385571: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:13.329625: weight for base 1, zone 2 requested
+2015-07-26 15:17:16.089783: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:17:17.114841: weight for base 1, zone 2 requested
+2015-07-26 15:17:23.403201: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:27.149415: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:17:30.867628: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:34.564839: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:17:34.970863: weight for base 1, zone 2 requested
+2015-07-26 15:17:38.268051: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:42.045267: updated weight of base 1, zone 2 to 0.76
+2015-07-26 15:17:45.818483: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:49.514695: updated weight of base 1, zone 2 to 0.51
+2015-07-26 15:17:53.215906: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:17:56.914118: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:17:56.939119: weight for base 1, zone 2 requested
+2015-07-26 15:17:58.265195: weight for base 1, zone 2 requested
+2015-07-26 15:18:00.635331: updated weight of base 1, zone 1 to 0.19
+2015-07-26 15:18:00.950349: weight for base 1, zone 1 requested
+2015-07-26 15:18:04.375545: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:18:08.080756: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:18:11.769967: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:18:16.062213: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:18:19.802427: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:18:23.346630: weight for base 1, zone 2 requested
+2015-07-26 15:18:23.493638: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:18:27.201850: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:18:30.895061: updated weight of base 1, zone 1 to 0.21
+2015-07-26 15:18:34.612274: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:18:38.314486: updated weight of base 1, zone 1 to 0.21
+2015-07-26 15:18:42.021698: updated weight of base 1, zone 2 to 0.55
+2015-07-26 15:18:45.722909: updated weight of base 1, zone 1 to 0.21
+2015-07-26 15:18:46.246939: weight for base 1, zone 2 requested
+2015-07-26 15:18:47.806029: weight for base 1, zone 1 requested
+2015-07-26 15:18:49.440122: updated weight of base 1, zone 2 to 0.55
+2015-07-26 15:18:53.134333: updated weight of base 1, zone 1 to 0.21
+2015-07-26 15:18:56.860546: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:18:57.683594: weight for base 1, zone 1 requested
+2015-07-26 15:18:58.994669: weight for base 1, zone 2 requested
+2015-07-26 15:19:00.598760: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:19:04.322973: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:19:08.022185: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:19:11.726397: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:19:15.419608: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:19:19.153822: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:19:22.842033: updated weight of base 1, zone 1 to 0.00
+2015-07-26 15:19:26.564245: updated weight of base 1, zone 2 to 0.00
+2015-07-26 15:21:53.799667: zones for base 1 requested
+2015-07-26 15:45:28.558660: zones for base 1 requested
+2015-07-26 15:45:29.947062: zones for base 1 requested
+2015-07-26 15:45:41.537883: updated description of base 1, zone 3 to Zone3
+2015-07-26 15:45:41.584683: updated initial of base 1, zone 3 to 56
+2015-07-26 15:45:43.082285: zones for base 1 requested
+2015-07-26 15:59:39.789400: zones for base 1 requested
+2015-07-26 16:00:28.492685: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:00:32.314692: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:00:44.092712: zones for base 1 requested
+2015-07-26 16:00:44.170712: updated weight of base 1, zone 1 to 0.20
+2015-07-26 16:02:03.964852: zones for base 1 requested
+2015-07-26 16:02:27.333692: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:02:32.247701: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:02:42.200518: zones for base 1 requested
+2015-07-26 16:05:05.209227: zones for base 1 requested
+2015-07-26 16:05:40.668088: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:05:49.170103: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:06:21.961360: Attempting server start
+2015-07-26 16:06:21.976960: Server started
+2015-07-26 16:06:55.423419: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:07:00.571428: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:07:09.619444: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:07:25.547071: zones for base 1 requested
+2015-07-26 16:08:12.893154: zones for base 1 requested
+2015-07-26 16:08:12.924354: weight for base 1, zone 1 requested
+2015-07-26 16:08:18.555964: weight for base 1, zone 2 requested
+2015-07-26 16:08:56.635630: zones for base 1 requested
+2015-07-26 16:09:30.534489: weight for base 1, zone 1 requested
+2015-07-26 16:09:33.295694: weight for base 1, zone 1 requested
+2015-07-26 16:10:14.048786: updated weight of base 1, zone 3 to 0.12
+2015-07-26 16:12:36.824659: test response requested
+2015-07-26 16:12:41.736940: updated weight of base 1, zone 1 to 1.30
+2015-07-26 16:12:56.728481: weight for base 1, zone 1 requested
+2015-07-26 16:17:38.320682: zones for base 1 requested
+2015-07-26 16:17:42.684932: zones for base 1 requested
+2015-07-26 16:18:08.656417: test response requested
+2015-07-26 16:18:40.485238: zones for base 1 requested
+2015-07-26 16:18:54.305028: test response requested
+2015-07-26 16:19:26.530872: zones for base 1 requested
+2015-07-26 16:19:26.913893: weight for base 1, zone 1 requested
+2015-07-26 16:19:29.571045: weight for base 1, zone 2 requested
+2015-07-26 16:19:32.558216: zones for base 1 requested
+2015-07-26 16:20:16.314719: updated weight of base 1, zone 1 to 1.36
+2015-07-26 16:20:20.172940: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:20:21.609022: updated weight of base 1, zone 2 to 1.23
+2015-07-26 16:20:32.068620: updated weight of base 1, zone 1 to 1.36
+2015-07-26 16:20:54.982931: zones for base 1 requested
+2015-07-26 16:21:36.303294: updated weight of base 1, zone 1 to 1.37
+2015-07-26 16:21:40.939559: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:21:52.459218: updated weight of base 1, zone 1 to 0.20
+2015-07-26 16:22:27.490222: zones for base 1 requested
+2015-07-26 16:22:33.799583: zones for base 1 requested
+2015-07-26 16:23:01.180149: zones for base 1 requested
+2015-07-26 16:24:18.353563: zones for base 1 requested
+2015-07-26 16:24:55.379681: updated description of base 1, zone 1 to Sugar
+2015-07-26 16:24:55.440684: updated initial of base 1, zone 1 to 1.4
+2015-07-26 16:24:59.234901: zones for base 1 requested
+2015-07-26 16:25:12.068635: updated description of base 1, zone 1 to Sugar
+2015-07-26 16:25:12.135639: updated initial of base 1, zone 1 to 0.4
+2015-07-26 16:25:13.527719: zones for base 1 requested
+2015-07-26 16:29:53.067707: test response requested
+2015-07-26 16:29:57.114939: updated weight of base 1, zone 1 to 0.20
+2015-07-26 16:30:01.150170: updated weight of base 1, zone 2 to 1.10
+2015-07-26 16:30:05.197401: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:30:09.110625: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:30:13.083852: updated weight of base 1, zone 1 to 1.35
+2015-07-26 16:30:17.150085: updated weight of base 1, zone 2 to 1.25
+2015-07-26 16:30:21.147313: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:30:25.138542: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:30:29.070767: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:30:33.083996: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:30:37.119227: updated weight of base 1, zone 1 to 1.35
+2015-07-26 16:30:41.095454: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:30:45.065681: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:30:49.009907: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:30:52.971134: updated weight of base 1, zone 1 to 1.32
+2015-07-26 16:30:57.004364: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:31:01.020594: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:31:05.089827: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:31:09.089056: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:31:13.150288: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:31:17.202520: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:31:21.287753: updated weight of base 1, zone 2 to 1.24
+2015-07-26 16:31:25.317984: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:31:29.403217: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:31:33.438448: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:31:37.447678: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:31:41.502910: updated weight of base 1, zone 1 to 1.35
+2015-07-26 16:31:45.589143: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:31:46.535197: zones for base 1 requested
+2015-07-26 16:31:49.654376: updated weight of base 1, zone 1 to 1.36
+2015-07-26 16:31:53.720608: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:31:57.771840: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:31:58.381875: zones for base 1 requested
+2015-07-26 16:32:00.849016: zones for base 1 requested
+2015-07-26 16:32:01.799070: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:03.959194: zones for base 1 requested
+2015-07-26 16:32:05.844302: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:32:09.918535: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:13.962766: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:32:18.020998: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:22.666264: zones for base 1 requested
+2015-07-26 16:32:22.900277: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:32:27.008512: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:31.078745: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:32:31.259755: zones for base 1 requested
+2015-07-26 16:32:32.572831: zones for base 1 requested
+2015-07-26 16:32:35.118976: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:39.182209: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:32:43.299444: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:47.428680: updated weight of base 1, zone 1 to 0.21
+2015-07-26 16:32:51.478912: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:32:55.508142: updated weight of base 1, zone 1 to 0.22
+2015-07-26 16:32:57.119235: updated description of base 1, zone 1 to Tide
+2015-07-26 16:32:57.161237: updated initial of base 1, zone 1 to 0.4
+2015-07-26 16:32:59.112349: zones for base 1 requested
+2015-07-26 16:32:59.588376: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:33:00.485427: zones for base 1 requested
+2015-07-26 16:33:03.699611: updated weight of base 1, zone 1 to 0.22
+2015-07-26 16:33:07.852848: updated weight of base 1, zone 2 to 1.25
+2015-07-26 16:33:11.909080: updated weight of base 1, zone 1 to 0.23
+2015-07-26 16:33:15.937780: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:33:20.040587: updated weight of base 1, zone 1 to 0.23
+2015-07-26 16:33:20.680189: updated description of base 1, zone 2 to Tide
+2015-07-26 16:33:20.758189: updated initial of base 1, zone 2 to 1.26
+2015-07-26 16:33:21.600590: zones for base 1 requested
+2015-07-26 16:33:29.790604: updated weight of base 1, zone 2 to 1.25
+2015-07-26 16:33:35.765415: updated weight of base 1, zone 1 to 0.23
+2015-07-26 16:33:37.419018: zones for base 1 requested
+2015-07-26 16:33:39.041421: zones for base 1 requested
+2015-07-26 16:33:41.833825: zones for base 1 requested
+2015-07-26 16:33:42.239426: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:33:46.295433: updated weight of base 1, zone 1 to 0.23
+2015-07-26 16:33:47.356235: zones for base 1 requested
+2015-07-26 16:33:50.367040: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:33:54.376247: updated weight of base 1, zone 1 to 0.24
+2015-07-26 16:34:13.283480: zones for base 1 requested
+2015-07-26 16:34:22.171349: zones for base 1 requested
+2015-07-26 16:34:32.722953: zones for base 1 requested
+2015-07-26 16:34:36.578173: zones for base 1 requested
+2015-07-26 16:34:45.226668: zones for base 1 requested
+2015-07-26 16:34:53.265128: zones for base 1 requested
+2015-07-26 16:34:54.652207: zones for base 1 requested
+2015-07-26 16:35:04.764785: zones for base 1 requested
+2015-07-26 16:35:23.824876: zones for base 1 requested
+2015-07-26 16:35:37.319647: updated description of base 1, zone 2 to Tide2
+2015-07-26 16:35:37.357650: updated initial of base 1, zone 2 to 1.26
+2015-07-26 16:35:38.576719: zones for base 1 requested
+2015-07-26 16:37:12.552695: zones for base 1 requested
+2015-07-26 16:37:48.619958: zones for base 1 requested
+2015-07-26 16:37:52.441965: zones for base 1 requested
+2015-07-26 16:37:59.758378: zones for base 1 requested
+2015-07-26 16:38:01.240380: zones for base 1 requested
+2015-07-26 16:42:19.766031: test response requested
+2015-07-26 16:42:23.790838: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:42:27.753245: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:42:31.746852: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:42:35.724859: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:42:39.780866: updated weight of base 1, zone 1 to 1.29
+2015-07-26 16:42:43.758873: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:42:47.752480: updated weight of base 1, zone 1 to 1.29
+2015-07-26 16:42:51.714887: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:42:55.755294: updated weight of base 1, zone 1 to 1.28
+2015-07-26 16:42:59.795701: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:43:03.851708: updated weight of base 1, zone 1 to 1.28
+2015-07-26 16:43:07.970115: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:43:12.041722: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:43:12.993324: zones for base 1 requested
+2015-07-26 16:43:16.019729: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:43:20.060136: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:43:23.710542: zones for base 1 requested
+2015-07-26 16:43:24.022543: updated weight of base 1, zone 2 to 1.26
+2015-07-26 16:43:28.094150: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:43:32.056557: updated weight of base 1, zone 2 to 0.80
+2015-07-26 16:43:37.017366: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:43:37.313766: zones for base 1 requested
+2015-07-26 16:43:41.135773: updated weight of base 1, zone 2 to 0.47
+2015-07-26 16:43:45.254180: updated weight of base 1, zone 1 to 1.29
+2015-07-26 16:43:49.263387: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:43:53.303794: updated weight of base 1, zone 1 to 0.52
+2015-07-26 16:43:53.490994: zones for base 1 requested
+2015-07-26 16:43:55.893399: zones for base 1 requested
+2015-07-26 16:43:57.281801: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:44:01.259808: updated weight of base 1, zone 1 to 0.52
+2015-07-26 16:44:05.331415: updated weight of base 1, zone 2 to 0.46
+2015-07-26 16:44:06.719817: zones for base 1 requested
+2015-07-26 16:44:09.387422: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:44:13.412229: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:44:17.452636: updated weight of base 1, zone 1 to 0.00
+2015-07-26 16:44:21.446243: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:44:25.408650: updated weight of base 1, zone 1 to 1.29
+2015-07-26 16:44:26.157451: zones for base 1 requested
+2015-07-26 16:44:29.449057: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:44:33.489464: updated weight of base 1, zone 1 to 1.28
+2015-07-26 16:44:33.567464: zones for base 1 requested
+2015-07-26 16:44:37.514271: updated weight of base 1, zone 2 to 0.30
+2015-07-26 16:44:37.623471: zones for base 1 requested
+2015-07-26 16:44:41.554678: updated weight of base 1, zone 1 to 1.28
+2015-07-26 16:44:45.548285: updated weight of base 1, zone 2 to 0.29
+2015-07-26 16:44:45.626285: zones for base 1 requested
+2015-07-26 16:44:49.557492: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:44:51.944296: zones for base 1 requested
+2015-07-26 16:44:53.566699: updated weight of base 1, zone 2 to 0.30
+2015-07-26 16:44:57.544706: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:01.569513: updated weight of base 1, zone 2 to 0.29
+2015-07-26 16:45:05.578720: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:09.587927: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:45:13.597134: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:17.653141: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:45:21.646748: updated description of base 1, zone 3 to Zone3
+2015-07-26 16:45:21.709148: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:21.740348: updated initial of base 1, zone 3 to 1
+2015-07-26 16:45:23.362751: zones for base 1 requested
+2015-07-26 16:45:25.593555: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:45:29.571562: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:29.680762: updated description of base 1, zone 4 to Zone4
+2015-07-26 16:45:29.743162: updated initial of base 1, zone 4 to 1
+2015-07-26 16:45:30.476364: zones for base 1 requested
+2015-07-26 16:45:33.533969: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:45:33.814769: zones for base 1 requested
+2015-07-26 16:45:37.558776: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:41.599183: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:45:45.561590: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:49.617597: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:45:53.642404: updated weight of base 1, zone 1 to 0.18
+2015-07-26 16:45:57.604811: updated weight of base 1, zone 2 to 0.00
+2015-07-26 16:48:23.867320: zones for base 1 requested
+2015-07-26 16:48:28.444582: zones for base 1 requested
+2015-07-26 16:48:56.542189: zones for base 1 requested
+2015-07-26 16:49:20.659568: zones for base 1 requested
+2015-07-26 16:49:23.303719: zones for base 1 requested
+2015-07-26 16:49:24.794805: zones for base 1 requested
+2015-07-26 16:50:09.779378: zones for base 1 requested
+2015-07-26 17:00:00.169981: zones for base 1 requested
+2015-07-26 17:02:36.204694: Attempting server start
+2015-07-26 17:02:36.232696: Server started
+2015-07-26 17:02:45.529228: active notifications requested
+2015-07-26 17:04:10.328078: active notifications requested
+2015-07-26 17:11:11.414457: test response requested
+2015-07-26 17:11:15.423664: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:11:19.432871: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:11:23.473279: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:12:57.745243: test response requested
+2015-07-26 17:13:01.879250: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:06.013257: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:06.933659: zones for base 1 requested
+2015-07-26 17:13:10.334465: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:14.421672: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:18.540079: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:22.939287: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:26.870494: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:30.910901: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:34.951308: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:38.898115: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:42.922922: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:46.947729: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:50.957936: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:13:54.998343: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:13:58.991950: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:14:03.063557: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:14:07.135164: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:14:11.206771: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:14:15.340778: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:19:58.390377: test response requested
+2015-07-26 17:20:02.415184: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:20:06.549191: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:20:10.511598: updated weight of base 1, zone 1 to 1.28
+2015-07-26 17:20:14.598805: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:20:18.576812: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:20:22.632819: updated weight of base 1, zone 2 to 1.28
+2015-07-26 17:20:26.657626: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:20:30.652233: updated weight of base 1, zone 2 to 1.25
+2015-07-26 17:20:34.630240: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:20:38.655047: updated weight of base 1, zone 2 to 1.26
+2015-07-26 17:20:42.679854: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:20:46.813861: updated weight of base 1, zone 2 to 1.26
+2015-07-26 17:20:50.854268: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:20:54.879075: updated weight of base 1, zone 2 to 1.25
+2015-07-26 17:20:58.888282: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:23:43.939570: test response requested
+2015-07-26 17:23:48.229578: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:23:52.285585: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:23:56.341592: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:23:57.246393: zones for base 1 requested
+2015-07-26 17:24:00.397599: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:24:04.469206: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:24:08.572013: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:24:12.659220: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:24:14.375223: zones for base 1 requested
+2015-07-26 17:24:16.730827: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:24:17.027228: zones for base 1 requested
+2015-07-26 17:24:20.833635: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:24:23.111238: zones for base 1 requested
+2015-07-26 17:24:24.905242: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:24:28.961249: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:24:33.142056: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:24:37.213663: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:24:40.208868: zones for base 1 requested
+2015-07-26 17:24:41.300870: updated weight of base 1, zone 2 to 0.00
+2015-07-26 17:24:45.278877: updated weight of base 1, zone 1 to 0.00
+2015-07-26 17:25:35.215564: zones for base 1 requested
+2015-07-26 17:26:18.209239: zones for base 1 requested
+2015-07-26 17:27:30.722166: zones for base 1 requested
+2015-07-26 17:27:33.389771: zones for base 1 requested
+2015-07-26 17:27:34.809373: zones for base 1 requested
+2015-07-26 17:27:36.540976: zones for base 1 requested
+2015-07-26 17:27:45.261391: zones for base 1 requested
+2015-07-26 17:27:47.242595: zones for base 1 requested
+2015-07-26 17:27:48.506197: zones for base 1 requested
+2015-07-26 17:27:50.393800: zones for base 1 requested
+2015-07-26 17:28:07.756630: zones for base 1 requested
+2015-07-26 17:28:11.578637: zones for base 1 requested
+2015-07-26 17:28:11.828238: zones for base 1 requested
+2015-07-26 17:28:17.506647: zones for base 1 requested
+2015-07-26 17:28:17.974648: zones for base 1 requested
+2015-07-26 17:28:25.977462: zones for base 1 requested
+2015-07-26 17:28:27.163064: zones for base 1 requested
+2015-07-26 17:28:42.872292: zones for base 1 requested
+2015-07-26 17:28:44.791095: zones for base 1 requested
+2015-07-26 17:28:46.725498: zones for base 1 requested
+2015-07-26 17:28:46.787898: zones for base 1 requested
+2015-07-26 17:28:53.184910: zones for base 1 requested
+2015-07-26 17:28:54.666912: zones for base 1 requested
+2015-07-26 17:28:56.819716: zones for base 1 requested
+2015-07-26 18:01:43.941747: zones for base 1 requested
+2015-07-26 21:05:40.013505: zones for base 1 requested
+2015-07-26 21:05:41.944615: zones for base 1 requested
+2015-07-26 21:05:43.745718: zones for base 1 requested
+2015-07-26 21:05:45.019791: zones for base 1 requested
+2015-07-26 21:05:46.435872: zones for base 1 requested
+2015-07-26 21:05:47.949959: zones for base 1 requested
+2015-07-26 21:05:55.248376: zones for base 1 requested
+2015-07-26 21:05:59.539621: zones for base 1 requested
+2015-07-26 21:12:58.421580: test response requested
+2015-07-27 01:08:06.309436: Attempting server start
+2015-07-27 01:08:06.385440: Server started
+2015-07-27 01:08:12.329780: base list requested
+2015-07-27 08:25:52.424723: Attempting server start
+2015-07-27 08:25:52.459725: Server started
+2015-07-27 08:26:00.126163: base list requested
+2015-07-27 08:52:21.341604: zones for base 1 requested
+2015-07-27 10:03:21.656390: base list requested
+2015-07-27 10:05:36.045540: zones for base 1 requested
+2015-07-27 10:06:24.785368: Attempting server start
+2015-07-27 10:06:24.800968: Server started
+2015-07-27 10:06:45.212638: Attempting server start
+2015-07-27 10:06:45.228238: Server started
+2015-07-27 10:06:46.551671: zones for base 1 requested
+2015-07-27 10:08:39.066903: zones for base 1 requested
+2015-07-27 10:08:45.108248: zones for base 1 requested
+2015-07-27 10:12:16.874098: test response requested
+2015-07-27 10:12:20.913329: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:12:24.916558: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:12:28.917028: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:12:32.970113: updated weight of base 1, zone 2 to 1.27
+2015-07-27 10:12:36.898893: updated weight of base 1, zone 1 to 0.48
+2015-07-27 10:12:37.834895: zones for base 1 requested
+2015-07-27 10:12:41.157701: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:12:41.391701: zones for base 1 requested
+2015-07-27 10:12:43.123304: zones for base 1 requested
+2015-07-27 10:12:45.182508: updated weight of base 1, zone 1 to 1.18
+2015-07-27 10:12:45.244908: zones for base 1 requested
+2015-07-27 10:12:48.552114: zones for base 1 requested
+2015-07-27 10:12:49.222915: updated weight of base 1, zone 2 to 0.48
+2015-07-27 10:12:52.982521: zones for base 1 requested
+2015-07-27 10:12:53.232122: updated weight of base 1, zone 1 to 1.07
+2015-07-27 10:12:57.366129: updated weight of base 1, zone 2 to 0.46
+2015-07-27 10:13:01.375336: updated weight of base 1, zone 1 to 1.20
+2015-07-27 10:13:05.384543: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:13:10.048951: updated weight of base 1, zone 1 to 1.21
+2015-07-27 10:13:14.042558: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:13:18.004965: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:13:22.045372: updated weight of base 1, zone 2 to 1.26
+2015-07-27 10:13:22.903373: zones for base 1 requested
+2015-07-27 10:13:29.751785: updated weight of base 1, zone 1 to 1.20
+2015-07-27 10:13:35.141593: zones for base 1 requested
+2015-07-27 10:13:35.987034: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:13:38.249038: zones for base 1 requested
+2015-07-27 10:13:41.197443: updated weight of base 1, zone 1 to 0.48
+2015-07-27 10:13:46.922653: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:13:51.041060: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:13:56.251469: updated weight of base 1, zone 2 to 0.47
+2015-07-27 10:14:00.697477: updated weight of base 1, zone 1 to 0.54
+2015-07-27 10:14:04.737884: updated weight of base 1, zone 2 to 0.56
+2015-07-27 10:14:08.871891: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:14:12.912298: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:14:16.890305: updated weight of base 1, zone 1 to 1.19
+2015-07-27 10:14:20.899512: updated weight of base 1, zone 2 to 0.46
+2015-07-27 10:14:24.893119: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:14:28.839926: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:14:29.510727: zones for base 1 requested
+2015-07-27 10:14:33.184023: updated weight of base 1, zone 1 to 0.47
+2015-07-27 10:14:33.899064: zones for base 1 requested
+2015-07-27 10:14:37.165763: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:14:41.190570: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:14:45.168577: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:14:49.162184: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:14:53.623792: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:14:57.804599: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:15:01.798206: updated weight of base 1, zone 2 to 0.65
+2015-07-27 10:15:05.979014: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:15:10.534222: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:15:14.543429: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:15:14.808629: zones for base 1 requested
+2015-07-27 10:15:18.537036: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:15:22.608643: updated weight of base 1, zone 1 to 0.50
+2015-07-27 10:15:26.633450: updated weight of base 1, zone 2 to 0.47
+2015-07-27 10:15:30.595857: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:15:34.624233: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:15:38.749736: updated weight of base 1, zone 1 to 1.22
+2015-07-27 10:15:42.836943: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:15:46.846150: updated weight of base 1, zone 1 to 1.23
+2015-07-27 10:15:50.839757: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:15:54.911364: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:15:55.753766: updated description of base 1, zone 1 to Tide
+2015-07-27 10:15:55.940966: updated initial of base 1, zone 1 to 1.22
+2015-07-27 10:15:57.064168: zones for base 1 requested
+2015-07-27 10:15:59.076572: updated weight of base 1, zone 2 to 1.26
+2015-07-27 10:16:03.132579: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:16:07.141786: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:16:11.135393: updated weight of base 1, zone 1 to 1.23
+2015-07-27 10:16:12.086994: zones for base 1 requested
+2015-07-27 10:16:15.082200: updated weight of base 1, zone 2 to 1.26
+2015-07-27 10:16:19.138207: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:16:23.131814: updated weight of base 1, zone 2 to 1.26
+2015-07-27 10:16:27.094220: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:16:31.134627: updated weight of base 1, zone 2 to 1.26
+2015-07-27 10:16:35.225637: updated weight of base 1, zone 1 to 1.26
+2015-07-27 10:16:39.351092: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:16:43.391499: updated weight of base 1, zone 1 to 1.23
+2015-07-27 10:16:47.416306: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:16:51.409913: updated weight of base 1, zone 1 to 1.28
+2015-07-27 10:16:55.512721: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:17:00.114729: updated weight of base 1, zone 1 to 1.26
+2015-07-27 10:17:04.108336: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:17:08.351543: updated weight of base 1, zone 1 to 1.25
+2015-07-27 10:17:12.423150: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:17:16.463557: updated weight of base 1, zone 1 to 1.26
+2015-07-27 10:17:20.457164: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:17:24.528771: updated weight of base 1, zone 1 to 1.27
+2015-07-27 10:17:36.145628: zones for base 1 requested
+2015-07-27 10:18:44.338892: test response requested
+2015-07-27 10:18:48.566500: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:18:52.653707: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:18:57.552115: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:19:01.748523: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:19:05.804530: updated weight of base 1, zone 1 to 1.28
+2015-07-27 10:19:09.798137: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:19:13.932144: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:19:17.941351: updated weight of base 1, zone 2 to 1.27
+2015-07-27 10:19:22.356159: updated weight of base 1, zone 1 to 1.27
+2015-07-27 10:19:26.349766: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:19:30.358973: updated weight of base 1, zone 1 to 1.27
+2015-07-27 10:19:34.411937: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:19:38.903047: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:19:43.973056: updated weight of base 1, zone 2 to 1.27
+2015-07-27 10:19:48.075863: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:19:52.069470: updated weight of base 1, zone 2 to 1.27
+2015-07-27 10:19:56.016277: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:20:03.675890: updated weight of base 1, zone 2 to 1.27
+2015-07-27 10:20:09.104699: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:20:14.939110: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:20:19.759518: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:20:24.985527: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:20:30.773137: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:20:36.212392: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:20:41.422801: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:20:45.884409: updated weight of base 1, zone 2 to 1.24
+2015-07-27 10:20:49.893616: updated weight of base 1, zone 1 to 0.51
+2015-07-27 10:20:53.949623: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:20:57.958830: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:21:01.936837: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:21:06.507645: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:21:10.501252: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:21:15.196860: updated weight of base 1, zone 1 to 0.55
+2015-07-27 10:21:19.174867: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:21:23.215274: updated weight of base 1, zone 1 to 0.00
+2015-07-27 10:21:27.349281: updated weight of base 1, zone 2 to 0.00
+2015-07-27 10:50:02.149930: updated description of base 1, zone 2 to ZONE1
+2015-07-27 10:50:02.196730: updated initial of base 1, zone 2 to 0
+2015-07-27 10:50:04.333933: zones for base 1 requested
+2015-07-27 10:50:09.903143: updated description of base 1, zone 2 to ZONE2
+2015-07-27 10:50:09.981143: updated initial of base 1, zone 2 to 0.0
+2015-07-27 10:50:10.698744: zones for base 1 requested
+2015-07-27 10:50:24.099168: updated description of base 1, zone 1 to ZONE1
+2015-07-27 10:50:24.145968: updated initial of base 1, zone 1 to 0
+2015-07-27 10:50:25.050769: zones for base 1 requested
+2015-07-27 10:50:56.048024: zones for base 1 requested
+2015-07-27 10:50:59.542430: zones for base 1 requested
+2015-07-27 10:52:53.625429: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:52:53.656629: updated initial of base 1, zone 4 to 40
+2015-07-27 10:52:55.606632: zones for base 1 requested
+2015-07-27 10:53:05.309849: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:53:05.341049: updated initial of base 1, zone 4 to 41.0
+2015-07-27 10:53:05.965050: zones for base 1 requested
+2015-07-27 10:53:14.045864: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:53:14.139464: updated initial of base 1, zone 4 to 81.0
+2015-07-27 10:53:14.966266: zones for base 1 requested
+2015-07-27 10:53:28.600690: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:53:32.953097: updated initial of base 1, zone 4 to 100.0
+2015-07-27 10:53:33.015497: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:53:33.124697: updated initial of base 1, zone 4 to 100.0
+2015-07-27 10:53:33.233898: zones for base 1 requested
+2015-07-27 10:53:36.057503: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:53:36.151103: updated initial of base 1, zone 4 to 100.0
+2015-07-27 10:53:36.712704: zones for base 1 requested
+2015-07-27 10:53:52.921132: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:53:52.967932: updated initial of base 1, zone 4 to 10.0
+2015-07-27 10:53:53.732333: zones for base 1 requested
+2015-07-27 10:54:03.513550: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:54:03.560350: updated initial of base 1, zone 4 to 120
+2015-07-27 10:54:04.168752: zones for base 1 requested
+2015-07-27 10:54:10.315162: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:54:10.346362: updated initial of base 1, zone 4 to 200.0
+2015-07-27 10:54:11.001563: zones for base 1 requested
+2015-07-27 10:54:18.629977: zones for base 1 requested
+2015-07-27 10:54:45.243623: zones for base 1 requested
+2015-07-27 10:55:27.020496: zones for base 1 requested
+2015-07-27 10:55:29.890901: zones for base 1 requested
+2015-07-27 10:55:39.734518: zones for base 1 requested
+2015-07-27 10:55:51.964939: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:55:52.042940: updated initial of base 1, zone 4 to 199.0
+2015-07-27 10:55:52.932141: zones for base 1 requested
+2015-07-27 10:56:03.852160: updated description of base 1, zone 4 to Zone4
+2015-07-27 10:56:03.945760: updated initial of base 1, zone 4 to 200.0
+2015-07-27 10:56:04.694562: zones for base 1 requested
+2015-07-27 11:02:59.951686: zones for base 1 requested
+2015-07-27 11:04:57.092290: test response requested
+2015-07-27 11:05:01.070297: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:05:05.079504: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:05:09.104311: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:05:13.191518: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:05:17.247525: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:06:47.680883: test response requested
+2015-07-27 11:06:54.232894: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:07:01.252906: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:07:02.532109: zones for base 1 requested
+2015-07-27 11:07:05.652114: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:07:09.630121: updated weight of base 1, zone 2 to 1.26
+2015-07-27 11:07:13.670528: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:07:17.554935: updated weight of base 1, zone 2 to 1.26
+2015-07-27 11:07:18.880937: zones for base 1 requested
+2015-07-27 11:07:19.302138: zones for base 1 requested
+2015-07-27 11:07:21.564142: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:07:25.573349: updated weight of base 1, zone 2 to 0.45
+2015-07-27 11:07:29.598156: updated weight of base 1, zone 1 to 1.26
+2015-07-27 11:07:33.591763: updated weight of base 1, zone 2 to 0.46
+2015-07-27 11:07:37.678970: updated weight of base 1, zone 1 to 1.26
+2015-07-27 11:07:42.093778: updated weight of base 1, zone 2 to 0.46
+2015-07-27 11:07:46.165385: updated weight of base 1, zone 1 to 1.27
+2015-07-27 11:07:50.205792: updated weight of base 1, zone 2 to 0.46
+2015-07-27 11:07:51.859395: updated description of base 1, zone 1 to Tide
+2015-07-27 11:07:51.906195: updated initial of base 1, zone 1 to 1.26
+2015-07-27 11:07:52.670596: zones for base 1 requested
+2015-07-27 11:07:54.230599: updated weight of base 1, zone 1 to 1.27
+2015-07-27 11:07:58.286606: updated weight of base 1, zone 2 to 0.46
+2015-07-27 11:08:00.236609: zones for base 1 requested
+2015-07-27 11:08:02.311413: updated weight of base 1, zone 1 to 1.27
+2015-07-27 11:08:06.320620: updated weight of base 1, zone 2 to 0.46
+2015-07-27 11:08:10.251827: updated weight of base 1, zone 1 to 1.27
+2015-07-27 11:08:14.229834: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:08:18.239041: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:08:19.814643: zones for base 1 requested
+2015-07-27 11:08:22.232648: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:08:26.288655: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:08:30.313462: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:08:34.244669: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:08:38.269476: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:08:42.341083: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:08:43.713885: zones for base 1 requested
+2015-07-27 11:08:46.381490: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:08:50.328297: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:08:50.375097: zones for base 1 requested
+2015-07-27 11:08:54.618304: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:08:58.643111: updated weight of base 1, zone 1 to 0.51
+2015-07-27 11:09:02.636718: updated weight of base 1, zone 2 to 0.24
+2015-07-27 11:09:05.663123: zones for base 1 requested
+2015-07-27 11:09:06.630325: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:09:10.639532: updated weight of base 1, zone 2 to 0.24
+2015-07-27 11:09:14.633139: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:09:18.673546: updated weight of base 1, zone 2 to 0.24
+2015-07-27 11:09:22.651553: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:09:26.676360: updated weight of base 1, zone 2 to 0.24
+2015-07-27 11:09:30.669967: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:09:34.694774: updated weight of base 1, zone 2 to 0.23
+2015-07-27 11:09:38.828781: updated weight of base 1, zone 1 to 1.26
+2015-07-27 11:09:42.837988: updated weight of base 1, zone 2 to 0.23
+2015-07-27 11:09:43.243589: zones for base 1 requested
+2015-07-27 11:09:46.831595: updated weight of base 1, zone 1 to 1.26
+2015-07-27 11:09:50.872002: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:09:54.865609: updated weight of base 1, zone 1 to 1.26
+2015-07-27 11:09:58.874816: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:02.884023: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:06.862030: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:10.871237: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:14.880444: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:18.874051: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:22.930058: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:26.939265: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:30.964072: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:34.942079: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:39.013686: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:43.069693: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:47.063300: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:51.088107: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:10:55.580915: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:10:59.590122: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:03.583729: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:07.592936: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:11.586543: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:15.595750: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:19.526957: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:23.614164: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:27.592171: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:31.554578: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:35.532585: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:39.651992: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:43.629999: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:47.623606: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:11:51.632813: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:11:56.125621: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:00.275228: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:04.268835: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:08.293642: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:12.271649: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:16.296456: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:20.321263: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:24.392870: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:28.402077: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:32.473684: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:36.326891: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:40.382898: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:44.392105: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:48.385712: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:12:52.394919: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:12:56.435326: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:00.444533: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:13:04.438140: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:08.494147: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:13:12.534554: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:16.652961: updated weight of base 1, zone 1 to 0.18
+2015-07-27 11:13:20.662168: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:24.733775: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:13:28.805382: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:32.861389: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:13:37.026597: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:41.519404: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:13:43.547408: zones for base 1 requested
+2015-07-27 11:13:44.842210: zones for base 1 requested
+2015-07-27 11:13:45.513011: updated weight of base 1, zone 2 to 0.47
+2015-07-27 11:13:49.740619: zones for base 1 requested
+2015-07-27 11:13:49.771819: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:13:53.812226: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:13:57.805833: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:01.846240: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:05.777447: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:09.817854: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:13.795861: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:17.820668: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:21.829875: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:25.823482: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:29.832689: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:33.826296: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:37.866703: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:41.782309: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:45.775916: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:49.956724: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:14:53.950331: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:14:57.943938: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:01.953145: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:15:06.024752: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:10.049559: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:15:14.058766: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:18.036773: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:15:22.030380: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:26.023987: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:15:30.095594: updated weight of base 1, zone 2 to 0.46
+2015-07-27 11:15:35.009602: updated weight of base 1, zone 1 to 0.52
+2015-07-27 11:15:39.050009: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:43.074816: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:15:47.099623: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:51.108830: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:15:55.211638: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:15:59.205244: updated weight of base 1, zone 1 to 0.00
+2015-07-27 11:16:03.167651: updated weight of base 1, zone 2 to 0.00
+2015-07-27 11:16:07.254859: updated weight of base 1, zone 1 to 0.00
+2015-07-27 12:25:28.332114: weight for base 1, zone 1 requested
+2015-07-27 12:25:28.363314: weight for base 1, zone 2 requested
